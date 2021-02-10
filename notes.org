@@ -1,0 +1,8 @@
+* Objectives
+** 1. Execute Commands Passed into standard input
+*** Store Text Into a Command Class
+*** Allow for commands to be labeled
+- Use another argument to specify this OR
+- Have it just be in the text
+** 2. Store output from those excutions
+** 3. Insert output from commands into a copy of the template file based on syntax in the template file
